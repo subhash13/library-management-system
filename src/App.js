@@ -17,4 +17,3 @@ const App = () => {
 }
  
 export default App;
-C:\Users\JSP 201\lms\.gitignore
